@@ -1,7 +1,8 @@
 {
   "summary": {
     "title": "Test",
-    "owner": "Cheyenne"
+    "owner": "Cheyenne",
+    "description": "web application with input fields, database"
   },
   "detail": {
     "contributors": [],
